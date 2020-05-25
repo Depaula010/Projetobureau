@@ -1,2 +1,1 @@
-# Projetobureau
-Protótipo para site com intuito de atender o projeto Bureau de extensão do Centro universitário UNA
+Site construído durante o segundo período para a divulgação do projeto de extensão Bureau no centro universitário UNA.
